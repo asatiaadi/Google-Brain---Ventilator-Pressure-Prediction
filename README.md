@@ -13,5 +13,5 @@ The competition will be scored as the mean absolute error between the predicted 
 where 𝑋
 is the vector of predicted pressure and 𝑌 is the vector of actual pressures across all breaths in the test set.
 
-# LSTM based approch is adopted
+LSTM based approch is adopted
 
